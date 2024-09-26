@@ -30,7 +30,7 @@ The model is trained and tested using publicly available datasets:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/phishing-email-detector.git
+   git clone https://github.com/aniskadri19/phishing-email-detector.git
    ```
 2. Install dependencies:
    ```bash
