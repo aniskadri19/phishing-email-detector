@@ -1,6 +1,12 @@
 pandas
 numpy
 transformers
-torch
+torch 
+torchvision 
+torchaudio 
+--index-url https://download.pytorch.org/whl/cu121
 scikit-learn
 nltk
+seaborn
+wordcloud
+ipywidgets
